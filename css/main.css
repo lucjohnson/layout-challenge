@@ -67,6 +67,9 @@ header h3 {
 .col-md-4 {
 	margin-bottom: 1em;
 }
+.col-md-6 {
+	padding-left: 0;
+}
 .menu {
 	padding: 1em;
 	background-color: rgba(207,205,140,0.5);
